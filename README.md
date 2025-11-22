@@ -1,0 +1,1 @@
+processCommand without parsing space
